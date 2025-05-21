@@ -59,8 +59,7 @@ Full Stack Developer with a strong focus on creating scalable and user-centric a
 </p>
 
 ## 💝 Support My Work
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ketusdev) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ketusdev)
-
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ketusdev) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T31C9M5T)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
