@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Szymon "Ketus" Skorupski
+# 👨‍💻 Szymon "Ketus" 
 
 ### Full Stack Developer | Mobile Developer | Tech Enthusiast
 
