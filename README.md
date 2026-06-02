@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Szymon "Ketus"
+# 👨‍💻 KetusDev
 ### Full Stack Developer · Mobile Developer · Tech Enthusiast
 
 Full Stack Developer with a strong focus on scalable architecture and developer experience. Currently spearheading [**OmniRoute**](https://omniroute.cloud) — a next-gen platform for VTC communities in Euro Truck Simulator 2 & American Truck Simulator, built on Next.js, Fastify, Rust (Tauri) and PostgreSQL. I turn complex real-time data pipelines into seamless user experiences.
