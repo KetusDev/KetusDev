@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 KetusDev
+# 👨‍💻 Szymon "Ketus"
 ### Full Stack Developer · Mobile Developer · Tech Enthusiast
 
 Full Stack Developer with a strong focus on scalable architecture and developer experience. Currently spearheading [**OmniRoute**](https://omniroute.cloud) — a next-gen platform for VTC communities in Euro Truck Simulator 2 & American Truck Simulator, built on Next.js, Fastify, Rust (Tauri) and PostgreSQL. I turn complex real-time data pipelines into seamless user experiences.
@@ -138,31 +138,14 @@ Supports both singleplayer and **TruckersMP** multiplayer.
 
 ---
 
-## 📊 GitHub Statistics
-
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=KetusDev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" />
-</td>
-<td width="50%">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KetusDev&theme=github_dark&hide_border=false" width="100%" />
-</td>
-</tr>
-</table>
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetusDev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=KetusDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KetusDev/KetusDev/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/KetusDev/KetusDev/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://github.com/KetusDev/KetusDev/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
