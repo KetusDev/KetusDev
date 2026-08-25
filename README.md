@@ -19,7 +19,7 @@ Full Stack Developer with a strong focus on scalable architecture and developer 
 <tr>
 <td valign="top">
 
-### [OmniRoute](https://omniroute.cloud) &nbsp; 🔒 Closed Beta · 2026
+### [OmniRoute](https://omniroute.cloud) &nbsp; 🔓 Open Beta · 2026
 
 A next-gen platform for **Virtual Trucking Companies** in ETS2 & ATS.  
 Automates trip tracking via real-time **SCS SDK telemetry** — no manual reporting needed.  
